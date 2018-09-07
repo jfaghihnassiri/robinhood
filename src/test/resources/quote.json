@@ -1,0 +1,17 @@
+{
+  "ask_price": "16.270000",
+  "ask_size": 19300,
+  "bid_price": "16.260000",
+  "bid_size": 11900,
+  "last_trade_price": "16.275000",
+  "last_extended_hours_trade_price": "16.260000",
+  "previous_close": "16.560000",
+  "adjusted_previous_close": "16.560000",
+  "previous_close_date": "2018-07-12",
+  "symbol": "AMD",
+  "trading_halted": false,
+  "has_traded": true,
+  "last_trade_price_source": "nls",
+  "updated_at": "2018-07-13T20:02:38Z",
+  "instrument": "https://api.robinhood.com/instruments/940fc3f5-1db5-4fed-b452-f3a2e4562b5f/"
+}

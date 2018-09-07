@@ -1,0 +1,23 @@
+{
+  "tradable_chain_id": "46a24732-e55e-474f-8504-8fc33632a67b",
+  "min_tick_size": null,
+  "type": "stock",
+  "splits": "https://api.robinhood.com/instruments/698f04e6-1710-4f34-b7af-4a88fe5e47b3/splits/",
+  "margin_initial_ratio": "0.5000",
+  "url": "https://api.robinhood.com/instruments/698f04e6-1710-4f34-b7af-4a88fe5e47b3/",
+  "quote": "https://api.robinhood.com/quotes/AVGO/",
+  "tradability": "tradable",
+  "bloomberg_unique": "EQ0000000064140772",
+  "list_date": "2009-08-06",
+  "name": "Broadcom Inc. Common Stock",
+  "symbol": "AVGO",
+  "fundamentals": "https://api.robinhood.com/fundamentals/AVGO/",
+  "state": "active",
+  "country": "US",
+  "day_trade_ratio": "0.2500",
+  "tradeable": true,
+  "maintenance_ratio": "0.2500",
+  "id": "698f04e6-1710-4f34-b7af-4a88fe5e47b3",
+  "market": "https://api.robinhood.com/markets/XNAS/",
+  "simple_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "open": "212.500000",
+  "high": "213.990000",
+  "low": "202.140000",
+  "volume": "7202251.000000",
+  "average_volume_2_weeks": "7123541.888900",
+  "average_volume": "3456884.864500",
+  "high_52_weeks": "285.680000",
+  "dividend_yield": "1.607400",
+  "low_52_weeks": "197.456700",
+  "market_cap": "91600672500.000000",
+  "pe_ratio": "7.592454",
+  "shares_outstanding": "436235225.000000",
+  "description": "Broadcom, Inc., is a holding company, which engages in the design, development and supply of analog and digital semiconductor connectivity solutions. It serves four primary end markets: wired infrastructure, wireless communications, enterprise storage and industrial & other. Its products include data center networking, home connectivity, broadband access, telecommunications equipment, smartphones and base stations, data center servers and storage, factory automation, power generation and alternative energy systems, and displays. In April, 2018, Broadcom redomiciled from Singapore to the United States. The company was founded in 1961 and is headquartered in San Jose, CA.",
+  "instrument": "https://api.robinhood.com/instruments/698f04e6-1710-4f34-b7af-4a88fe5e47b3/",
+  "ceo": "Hock E. Tan",
+  "headquarters_city": "San Jose",
+  "headquarters_state": "California",
+  "sector": "Electronic Technology",
+  "num_employees": 14000,
+  "year_founded": 1961
+}
