@@ -181,13 +181,13 @@ public class TradeManager {
 
     private final boolean confirmOrder(Order order) {
         // Ask for confirmation
-        String endStatement = order.getSide() == Side.SELL ? order.getNetChangePercent() + " change percent" : "";
+        String endStatement = order.getSide() == Side.SELL ? CommonUtils.roundDownNearestCent(order.getNetChangePercent()) + "% change" : "";
         System.out.println(
          order.getSide().getText() + " " + order.getQuantity() +
           " shares of " + order.getSymbol() +
-          "(" + order.getPercentChangeToday()+ "%)" +
+          "(" + CommonUtils.roundDownNearestCent(order.getPercentChangeToday()) + "%)" +
           " for " + order.getPrice() + " each, " +
-          order.getTotalCurrentValue() + " total. " +
+          CommonUtils.roundDownNearestCent(order.getTotalCurrentValue()) + " total. " +
           endStatement + "\nWould you like to continue? y/n\n");
 
         // Read in confirmation
